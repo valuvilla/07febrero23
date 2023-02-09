@@ -100,3 +100,8 @@ def suma(a,b):
 # suma(5,8)
 
 
+ # @staticmethod # No necesita self
+    # @classmethod # No necesita self
+    # @property # No necesita self
+    # **kwargs # Argumentos variables lista
+    # *args # Argumentos variables dupla    
